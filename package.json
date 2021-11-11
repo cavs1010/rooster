@@ -1,0 +1,14 @@
+{
+  "name": "rooster",
+  "version": "1.0.0",
+  "description": "Code Academy exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index_test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
