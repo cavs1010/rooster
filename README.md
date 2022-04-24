@@ -1,5 +1,5 @@
 # 🐓Rooster - Tests with mocha<br>
-[Objective](#objective_h) | [languajes](#languajes_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
+[Objective](#objective_h) | [languages](#languages_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
 
 <p>Use Mocha to create automatic tests in java script</p><br>
 
@@ -7,7 +7,7 @@
 <p>Implement modules in javascript using node</p>
 
 
-<h2>Languajes and tools<a name="languajes_h"></a></h2>
+<h2>Languages and tools<a name="languajes_h"></a></h2>
 <p></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://nodejs.org/static/images/logo-hexagon-card.png" alt="node" width="35" height="40"/> </a>
